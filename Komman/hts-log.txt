@@ -1,0 +1,821 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Dec 2021 11:59:13 at https://alis.vamtam.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://alis.vamtam.com/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://alis.vamtam.com/ -O1 "C:\Users\Aman.Singh\Desktop\test1\Komman" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +http://alis.vamtam.com/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:00:26	Error: 	"Method Not Allowed" (405) at link https://alis.vamtam.com/xmlrpc.php (from https://alis.vamtam.com/)
+12:05:55	Warning: 	Link https://alis.vamtam.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:05:55	Error: 	"Bad Request" (400) at link https://alis.vamtam.com/wp-admin/admin-ajax.php (from https://alis.vamtam.com/)
+12:06:00	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-content/plugins/instagram-feed-pro/css/owl.video.play.png (from https://alis.vamtam.com/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=5.12)
+12:06:09	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15478
+12:06:09	Warning: 	File has moved from https://alis.vamtam.com/?p=15478 to https://alis.vamtam.com/home-planner/
+12:06:09	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/home-planner/"https://www.youtube.com/embed/A83_TxPAEb4?feature=oembed%22 (from https://alis.vamtam.com/home-planner/)
+12:07:17	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?paged=2
+12:07:17	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?paged=2 to https://alis.vamtam.com/home-planner/page/2/
+12:11:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=12176
+12:11:10	Warning: 	File has moved from https://alis.vamtam.com/?p=12176 to https://alis.vamtam.com/our-story/
+12:11:10	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/our-story/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-9.jpg' (from https://alis.vamtam.com/our-story/)
+12:11:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15246
+12:11:10	Warning: 	File has moved from https://alis.vamtam.com/?p=15246 to https://alis.vamtam.com/the-ceremony/
+12:11:10	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/the-ceremony/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-3.jpg' (from https://alis.vamtam.com/the-ceremony/)
+12:11:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15250
+12:11:10	Warning: 	File has moved from https://alis.vamtam.com/?p=15250 to https://alis.vamtam.com/bridesmaid-groomsman/
+12:11:10	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/bridesmaid-groomsman/'https://alis.vamtam.com/wp-content/uploads/2017/11/home1-slider-bg.jpg' (from https://alis.vamtam.com/bridesmaid-groomsman/)
+12:11:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15254
+12:11:10	Warning: 	File has moved from https://alis.vamtam.com/?p=15254 to https://alis.vamtam.com/location/
+12:11:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15267
+12:11:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15267 to https://alis.vamtam.com/wedding-blog/
+12:11:54	Warning: 	Moved Permanently for https://alis.vamtam.com/wedding-blog/?paged=2
+12:11:54	Warning: 	File has moved from https://alis.vamtam.com/wedding-blog/?paged=2 to https://alis.vamtam.com/wedding-blog/page/2/
+12:11:55	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15256
+12:11:55	Warning: 	File has moved from https://alis.vamtam.com/?p=15256 to https://alis.vamtam.com/gift-registry/
+12:11:55	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/gift-registry/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-4.jpg' (from https://alis.vamtam.com/gift-registry/)
+12:12:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13345
+12:12:24	Warning: 	File has moved from https://alis.vamtam.com/?p=13345 to https://alis.vamtam.com/about-us/
+12:12:24	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/about-us/'https://alis.vamtam.com/wp-content/uploads/2017/11/gallery-5.jpg' (from https://alis.vamtam.com/about-us/)
+12:12:25	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=14779
+12:12:25	Warning: 	File has moved from https://alis.vamtam.com/?p=14779 to https://alis.vamtam.com/shop-1/
+12:12:25	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/shop-1/'https://alis.vamtam.com/wp-content/uploads/2017/12/Header-shop.jpg' (from https://alis.vamtam.com/shop-1/)
+12:12:27	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=1851
+12:12:27	Warning: 	File has moved from https://alis.vamtam.com/?p=1851 to https://alis.vamtam.com/case-studies/
+12:12:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13334
+12:12:47	Warning: 	File has moved from https://alis.vamtam.com/?p=13334 to https://alis.vamtam.com/our-services/
+12:12:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/urban/ (from https://alis.vamtam.com/our-services/)
+12:12:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/gardens/ (from https://alis.vamtam.com/our-services/)
+12:12:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/maintenance/ (from https://alis.vamtam.com/our-services/)
+12:12:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/services/events-decoration/ (from https://alis.vamtam.com/our-services/)
+12:12:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=14886
+12:12:49	Warning: 	File has moved from https://alis.vamtam.com/?p=14886 to https://alis.vamtam.com/appointments/
+12:12:49	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/appointments/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-12.jpg' (from https://alis.vamtam.com/appointments/)
+12:12:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=11412
+12:12:49	Warning: 	File has moved from https://alis.vamtam.com/?p=11412 to https://alis.vamtam.com/contact/
+12:12:49	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/contact/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-11.jpg' (from https://alis.vamtam.com/contact/)
+12:12:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15235
+12:12:49	Warning: 	File has moved from https://alis.vamtam.com/?p=15235 to https://alis.vamtam.com/rsvp/
+12:12:49	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/rsvp/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-8.jpg' (from https://alis.vamtam.com/rsvp/)
+12:12:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=9741
+12:12:49	Warning: 	File has moved from https://alis.vamtam.com/?p=9741 to https://alis.vamtam.com/standard-jetpack-gallery/
+12:12:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=7780
+12:12:49	Warning: 	File has moved from https://alis.vamtam.com/?p=7780 to https://alis.vamtam.com/guestbook/
+12:12:49	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/guestbook/'https://alis.vamtam.com/wp-content/uploads/2017/12/header-5.jpg' (from https://alis.vamtam.com/guestbook/)
+12:13:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=11683
+12:13:24	Warning: 	File has moved from https://alis.vamtam.com/?p=11683 to https://alis.vamtam.com/features/
+12:13:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=8022
+12:13:24	Warning: 	File has moved from https://alis.vamtam.com/?p=8022 to https://alis.vamtam.com/comingsoon/
+12:15:38	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=12879
+12:15:38	Warning: 	File has moved from https://alis.vamtam.com/?p=12879 to https://alis.vamtam.com/animation-builder/
+12:15:38	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13252
+12:15:38	Warning: 	File has moved from https://alis.vamtam.com/?p=13252 to https://alis.vamtam.com/cart/
+12:16:09	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=11947
+12:16:09	Warning: 	File has moved from https://alis.vamtam.com/?p=11947 to https://alis.vamtam.com/our-amaizing-wedding-story/
+12:16:09	Warning: 	Found for https://alis.vamtam.com/our-amaizing-wedding-story/?share=facebook
+12:16:09	Warning: 	File has moved from https://alis.vamtam.com/our-amaizing-wedding-story/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Four-amaizing-wedding-story%2F&t=Our%20Amaizing%20Wedding%20Story
+12:16:09	Warning: 	Found for https://alis.vamtam.com/our-amaizing-wedding-story/?share=twitter
+12:16:09	Warning: 	File has moved from https://alis.vamtam.com/our-amaizing-wedding-story/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Our%20Amaizing%20Wedding%20Story&url=https%3A%2F%2Falis.vamtam.com%2Four-amaizing-wedding-story%2F
+12:16:09	Warning: 	Found for https://alis.vamtam.com/our-amaizing-wedding-story/?share=pinterest
+12:16:09	Warning: 	File has moved from https://alis.vamtam.com/our-amaizing-wedding-story/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Four-amaizing-wedding-story%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F04%2Fpost-1.jpg&description=Our%20Amaizing%20Wedding%20Story
+12:16:09	Warning: 	Found for https://alis.vamtam.com/our-amaizing-wedding-story/?share=tumblr
+12:16:09	Warning: 	File has moved from https://alis.vamtam.com/our-amaizing-wedding-story/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Four-amaizing-wedding-story%2F&t=Our%20Amaizing%20Wedding%20Story&s=
+12:16:17	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=6748
+12:16:17	Warning: 	File has moved from https://alis.vamtam.com/?p=6748 to https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/
+12:16:17	Warning: 	Found for https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=facebook
+12:16:17	Warning: 	File has moved from https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fwedding-traditions-cake-cutting-ceremony%2F&t=Wedding%20Traditions%3A%20Cake%20Cutting%20Ceremony
+12:16:17	Warning: 	Found for https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=twitter
+12:16:17	Warning: 	File has moved from https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Wedding%20Traditions%3A%20Cake%20Cutting%20Ceremony&url=https%3A%2F%2Falis.vamtam.com%2Fwedding-traditions-cake-cutting-ceremony%2F
+12:16:17	Warning: 	Found for https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=pinterest
+12:16:17	Warning: 	File has moved from https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fwedding-traditions-cake-cutting-ceremony%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fpost-1.jpg&description=Wedding%20Traditions%3A%20Cake%20Cutting%20Ceremony
+12:16:18	Warning: 	Found for https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=tumblr
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/wedding-traditions-cake-cutting-ceremony/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fwedding-traditions-cake-cutting-ceremony%2F&t=Wedding%20Traditions%3A%20Cake%20Cutting%20Ceremony&s=
+12:16:18	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=300
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/?p=300 to https://alis.vamtam.com/bigger-better-inspirational/
+12:16:18	Warning: 	Found for https://alis.vamtam.com/bigger-better-inspirational/?share=facebook
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/bigger-better-inspirational/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fbigger-better-inspirational%2F&t=Bigger%20%26%20better%20-%20inspirational
+12:16:18	Warning: 	Found for https://alis.vamtam.com/bigger-better-inspirational/?share=twitter
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/bigger-better-inspirational/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Bigger%20%26%20better%20-%20inspirational&url=https%3A%2F%2Falis.vamtam.com%2Fbigger-better-inspirational%2F
+12:16:18	Warning: 	Found for https://alis.vamtam.com/bigger-better-inspirational/?share=pinterest
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/bigger-better-inspirational/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fbigger-better-inspirational%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-3-1.jpg&description=Bigger%20%26amp%3B%20better%20-%20inspirational
+12:16:18	Warning: 	Found for https://alis.vamtam.com/bigger-better-inspirational/?share=tumblr
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/bigger-better-inspirational/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fbigger-better-inspirational%2F&t=Bigger%20%26%20better%20-%20inspirational&s=
+12:16:18	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=308
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/?p=308 to https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/
+12:16:18	Warning: 	Found for https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=facebook
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2F8-of-the-best-bits-for-wedding-ideas%2F&t=8%20Of%20The%20Best%20Bits%20For%20Wedding%20Ideas
+12:16:18	Warning: 	Found for https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=twitter
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=8%20Of%20The%20Best%20Bits%20For%20Wedding%20Ideas&url=https%3A%2F%2Falis.vamtam.com%2F8-of-the-best-bits-for-wedding-ideas%2F
+12:16:18	Warning: 	Found for https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=pinterest
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2F8-of-the-best-bits-for-wedding-ideas%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-4-1.jpg&description=8%20Of%20The%20Best%20Bits%20For%20Wedding%20Ideas
+12:16:18	Warning: 	Found for https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=tumblr
+12:16:18	Warning: 	File has moved from https://alis.vamtam.com/8-of-the-best-bits-for-wedding-ideas/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2F8-of-the-best-bits-for-wedding-ideas%2F&t=8%20Of%20The%20Best%20Bits%20For%20Wedding%20Ideas&s=
+12:16:29	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15738
+12:16:29	Warning: 	File has moved from https://alis.vamtam.com/?p=15738 to https://alis.vamtam.com/portfolio/scarlett-samuel/
+12:16:37	Warning: 	Found for https://alis.vamtam.com/portfolio/scarlett-samuel/?share=facebook
+12:16:37	Warning: 	File has moved from https://alis.vamtam.com/portfolio/scarlett-samuel/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fscarlett-samuel%2F&t=Scarlett%20%26%20Samuel
+12:16:37	Warning: 	Found for https://alis.vamtam.com/portfolio/scarlett-samuel/?share=twitter
+12:16:37	Warning: 	File has moved from https://alis.vamtam.com/portfolio/scarlett-samuel/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Scarlett%20%26%20Samuel&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fscarlett-samuel%2F
+12:16:37	Warning: 	Found for https://alis.vamtam.com/portfolio/scarlett-samuel/?share=pinterest
+12:16:37	Warning: 	File has moved from https://alis.vamtam.com/portfolio/scarlett-samuel/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fscarlett-samuel%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fheader-portfolio2.jpg&description=Scarlett%20%26amp%3B%20Samuel
+12:16:37	Warning: 	Found for https://alis.vamtam.com/portfolio/scarlett-samuel/?share=tumblr
+12:16:37	Warning: 	File has moved from https://alis.vamtam.com/portfolio/scarlett-samuel/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fscarlett-samuel%2F&t=Scarlett%20%26%20Samuel&s=
+12:16:37	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15734
+12:16:37	Warning: 	File has moved from https://alis.vamtam.com/?p=15734 to https://alis.vamtam.com/portfolio/evelyn-oliver/
+12:16:41	Warning: 	Found for https://alis.vamtam.com/portfolio/evelyn-oliver/?share=facebook
+12:16:41	Warning: 	File has moved from https://alis.vamtam.com/portfolio/evelyn-oliver/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fevelyn-oliver%2F&t=Evelyn%20%26%20Oliver
+12:16:41	Warning: 	Found for https://alis.vamtam.com/portfolio/evelyn-oliver/?share=twitter
+12:16:41	Warning: 	File has moved from https://alis.vamtam.com/portfolio/evelyn-oliver/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Evelyn%20%26%20Oliver&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fevelyn-oliver%2F
+12:16:41	Warning: 	Found for https://alis.vamtam.com/portfolio/evelyn-oliver/?share=pinterest
+12:16:41	Warning: 	File has moved from https://alis.vamtam.com/portfolio/evelyn-oliver/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fevelyn-oliver%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fheader-portfolio.jpg&description=Evelyn%20%26amp%3B%20Oliver
+12:16:41	Warning: 	Found for https://alis.vamtam.com/portfolio/evelyn-oliver/?share=tumblr
+12:16:41	Warning: 	File has moved from https://alis.vamtam.com/portfolio/evelyn-oliver/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fevelyn-oliver%2F&t=Evelyn%20%26%20Oliver&s=
+12:16:41	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=10027
+12:16:41	Warning: 	File has moved from https://alis.vamtam.com/?p=10027 to https://alis.vamtam.com/portfolio/olivia-liam/
+12:16:43	Warning: 	Found for https://alis.vamtam.com/portfolio/olivia-liam/?share=facebook
+12:16:43	Warning: 	File has moved from https://alis.vamtam.com/portfolio/olivia-liam/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Folivia-liam%2F&t=Olivia%20%26%20Liam
+12:16:43	Warning: 	Found for https://alis.vamtam.com/portfolio/olivia-liam/?share=twitter
+12:16:43	Warning: 	File has moved from https://alis.vamtam.com/portfolio/olivia-liam/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Olivia%20%26%20Liam&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Folivia-liam%2F
+12:16:43	Warning: 	Found for https://alis.vamtam.com/portfolio/olivia-liam/?share=pinterest
+12:16:43	Warning: 	File has moved from https://alis.vamtam.com/portfolio/olivia-liam/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Folivia-liam%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-2-1.jpg&description=Olivia%20%26amp%3B%20Liam
+12:16:43	Warning: 	Found for https://alis.vamtam.com/portfolio/olivia-liam/?share=tumblr
+12:16:43	Warning: 	File has moved from https://alis.vamtam.com/portfolio/olivia-liam/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Folivia-liam%2F&t=Olivia%20%26%20Liam&s=
+12:16:43	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=9898
+12:16:43	Warning: 	File has moved from https://alis.vamtam.com/?p=9898 to https://alis.vamtam.com/portfolio/zara-phillipe/
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/zara-phillipe/?share=facebook
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/zara-phillipe/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fzara-phillipe%2F&t=Zara%20%26%20Phillipe
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/zara-phillipe/?share=twitter
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/zara-phillipe/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Zara%20%26%20Phillipe&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fzara-phillipe%2F
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/zara-phillipe/?share=pinterest
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/zara-phillipe/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fzara-phillipe%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-3-1.jpg&description=Zara%20%26amp%3B%20Phillipe
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/zara-phillipe/?share=tumblr
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/zara-phillipe/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fzara-phillipe%2F&t=Zara%20%26%20Phillipe&s=
+12:16:44	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=6215
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/?p=6215 to https://alis.vamtam.com/portfolio/jane-silver/
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/jane-silver/?share=facebook
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/jane-silver/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fjane-silver%2F&t=Jane%20%26%20Silver
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/jane-silver/?share=twitter
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/jane-silver/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Jane%20%26%20Silver&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fjane-silver%2F
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/jane-silver/?share=pinterest
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/jane-silver/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fjane-silver%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-5-1.jpg&description=Jane%20%26amp%3B%20Silver
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/jane-silver/?share=tumblr
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/jane-silver/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fjane-silver%2F&t=Jane%20%26%20Silver&s=
+12:16:44	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=5327
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/?p=5327 to https://alis.vamtam.com/portfolio/briggite-marcos/
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/briggite-marcos/?share=facebook
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/briggite-marcos/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fbriggite-marcos%2F&t=Briggite%20%26%20Marcos
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/briggite-marcos/?share=twitter
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/briggite-marcos/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Briggite%20%26%20Marcos&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fbriggite-marcos%2F
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/briggite-marcos/?share=pinterest
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/briggite-marcos/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fbriggite-marcos%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-6-1.jpg&description=Briggite%20%26amp%3B%20Marcos
+12:16:44	Warning: 	Found for https://alis.vamtam.com/portfolio/briggite-marcos/?share=tumblr
+12:16:44	Warning: 	File has moved from https://alis.vamtam.com/portfolio/briggite-marcos/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fbriggite-marcos%2F&t=Briggite%20%26%20Marcos&s=
+12:16:46	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=12438
+12:16:46	Warning: 	File has moved from https://alis.vamtam.com/?p=12438 to https://alis.vamtam.com/our-wedding/
+12:16:46	Warning: 	Found for https://alis.vamtam.com/our-wedding/?share=facebook
+12:16:46	Warning: 	File has moved from https://alis.vamtam.com/our-wedding/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Four-wedding%2F&t=Our%20Wedding
+12:16:46	Warning: 	Found for https://alis.vamtam.com/our-wedding/?share=twitter
+12:16:46	Warning: 	File has moved from https://alis.vamtam.com/our-wedding/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Our%20Wedding&url=https%3A%2F%2Falis.vamtam.com%2Four-wedding%2F
+12:16:47	Warning: 	Found for https://alis.vamtam.com/our-wedding/?share=pinterest
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/our-wedding/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Four-wedding%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-2-1.jpg&description=Our%20Wedding
+12:16:47	Warning: 	Found for https://alis.vamtam.com/our-wedding/?share=tumblr
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/our-wedding/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Four-wedding%2F&t=Our%20Wedding&s=
+12:16:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=1525
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/?p=1525 to https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/
+12:16:47	Warning: 	Found for https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=facebook
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fbest-love-songs-top-100-love-songs-of-all-time%2F&t=Best%20Love%20Songs%3A%20Top%20100%20Love%20Songs%20of%20All%20Time
+12:16:47	Warning: 	Found for https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=twitter
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Best%20Love%20Songs%3A%20Top%20100%20Love%20Songs%20of%20All%20Time&url=https%3A%2F%2Falis.vamtam.com%2Fbest-love-songs-top-100-love-songs-of-all-time%2F
+12:16:47	Warning: 	Found for https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=pinterest
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fbest-love-songs-top-100-love-songs-of-all-time%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fpost-6.jpg&description=Best%20Love%20Songs%3A%20Top%20100%20Love%20Songs%20of%20All%20Time
+12:16:47	Warning: 	Found for https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=tumblr
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/best-love-songs-top-100-love-songs-of-all-time/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fbest-love-songs-top-100-love-songs-of-all-time%2F&t=Best%20Love%20Songs%3A%20Top%20100%20Love%20Songs%20of%20All%20Time&s=
+12:16:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=5352
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/?p=5352 to https://alis.vamtam.com/how-to-address-wedding-invitations/
+12:16:47	Warning: 	Found for https://alis.vamtam.com/how-to-address-wedding-invitations/?share=facebook
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/how-to-address-wedding-invitations/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fhow-to-address-wedding-invitations%2F&t=How%20to%20Address%20Wedding%20Invitations%20In%20Time
+12:16:47	Warning: 	Found for https://alis.vamtam.com/how-to-address-wedding-invitations/?share=twitter
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/how-to-address-wedding-invitations/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=How%20to%20Address%20Wedding%20Invitations%20In%20Time&url=https%3A%2F%2Falis.vamtam.com%2Fhow-to-address-wedding-invitations%2F
+12:16:47	Warning: 	Found for https://alis.vamtam.com/how-to-address-wedding-invitations/?share=pinterest
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/how-to-address-wedding-invitations/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fhow-to-address-wedding-invitations%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-5-1.jpg&description=How%20to%20Address%20Wedding%20Invitations%20In%20Time
+12:16:47	Warning: 	Found for https://alis.vamtam.com/how-to-address-wedding-invitations/?share=tumblr
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/how-to-address-wedding-invitations/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fhow-to-address-wedding-invitations%2F&t=How%20to%20Address%20Wedding%20Invitations%20In%20Time&s=
+12:16:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=1499
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/?p=1499 to https://alis.vamtam.com/hot-wedding-trends-for-2017/
+12:16:47	Warning: 	Found for https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=facebook
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fhot-wedding-trends-for-2017%2F&t=Hot%20Wedding%20Trends%20for%202017
+12:16:47	Warning: 	Found for https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=twitter
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Hot%20Wedding%20Trends%20for%202017&url=https%3A%2F%2Falis.vamtam.com%2Fhot-wedding-trends-for-2017%2F
+12:16:47	Warning: 	Found for https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=pinterest
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fhot-wedding-trends-for-2017%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fpost-8.jpg&description=Hot%20Wedding%20Trends%20for%202017
+12:16:47	Warning: 	Found for https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=tumblr
+12:16:47	Warning: 	File has moved from https://alis.vamtam.com/hot-wedding-trends-for-2017/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fhot-wedding-trends-for-2017%2F&t=Hot%20Wedding%20Trends%20for%202017&s=
+12:16:47	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14784 (from https://alis.vamtam.com/product/montana-fall-2018/)
+12:16:50	Warning: 	Found for https://alis.vamtam.com/product/montana-fall-2018/?share=facebook
+12:16:50	Warning: 	File has moved from https://alis.vamtam.com/product/montana-fall-2018/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmontana-fall-2018%2F&t=Montana%20-%20Fall%202018
+12:16:56	Warning: 	Found for https://alis.vamtam.com/product/montana-fall-2018/?share=twitter
+12:16:56	Warning: 	File has moved from https://alis.vamtam.com/product/montana-fall-2018/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Montana%20-%20Fall%202018&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmontana-fall-2018%2F
+12:16:56	Warning: 	Found for https://alis.vamtam.com/product/montana-fall-2018/?share=pinterest
+12:16:56	Warning: 	File has moved from https://alis.vamtam.com/product/montana-fall-2018/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmontana-fall-2018%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fd-product1-right.jpg&description=Montana%20-%20Fall%202018
+12:16:56	Warning: 	Found for https://alis.vamtam.com/product/montana-fall-2018/?share=tumblr
+12:16:56	Warning: 	File has moved from https://alis.vamtam.com/product/montana-fall-2018/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmontana-fall-2018%2F&t=Montana%20-%20Fall%202018&s=
+12:16:57	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14784&paged=2
+12:16:57	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14784&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14784
+12:17:00	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14785 (from https://alis.vamtam.com/product/laine-dress/)
+12:17:00	Warning: 	Found for https://alis.vamtam.com/product/laine-dress/?share=facebook
+12:17:00	Warning: 	File has moved from https://alis.vamtam.com/product/laine-dress/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Flaine-dress%2F&t=Laine%20dress
+12:17:00	Warning: 	Found for https://alis.vamtam.com/product/laine-dress/?share=twitter
+12:17:00	Warning: 	File has moved from https://alis.vamtam.com/product/laine-dress/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Laine%20dress&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Flaine-dress%2F
+12:17:00	Warning: 	Found for https://alis.vamtam.com/product/laine-dress/?share=pinterest
+12:17:00	Warning: 	File has moved from https://alis.vamtam.com/product/laine-dress/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Flaine-dress%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fd-product2.jpg&description=Laine%20dress
+12:17:00	Warning: 	Found for https://alis.vamtam.com/product/laine-dress/?share=tumblr
+12:17:00	Warning: 	File has moved from https://alis.vamtam.com/product/laine-dress/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Flaine-dress%2F&t=Laine%20dress&s=
+12:17:00	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14785&paged=2
+12:17:00	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14785&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14785
+12:17:02	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14782 (from https://alis.vamtam.com/product/pascaline-dress/)
+12:17:02	Warning: 	Found for https://alis.vamtam.com/product/pascaline-dress/?share=facebook
+12:17:02	Warning: 	File has moved from https://alis.vamtam.com/product/pascaline-dress/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fpascaline-dress%2F&t=Pascaline%20dress
+12:17:02	Warning: 	Found for https://alis.vamtam.com/product/pascaline-dress/?share=twitter
+12:17:02	Warning: 	File has moved from https://alis.vamtam.com/product/pascaline-dress/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Pascaline%20dress&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fpascaline-dress%2F
+12:17:02	Warning: 	Found for https://alis.vamtam.com/product/pascaline-dress/?share=pinterest
+12:17:02	Warning: 	File has moved from https://alis.vamtam.com/product/pascaline-dress/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fpascaline-dress%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F08%2Fd-product3.jpg&description=Pascaline%20dress
+12:17:02	Warning: 	Found for https://alis.vamtam.com/product/pascaline-dress/?share=tumblr
+12:17:02	Warning: 	File has moved from https://alis.vamtam.com/product/pascaline-dress/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fpascaline-dress%2F&t=Pascaline%20dress&s=
+12:17:02	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14782&paged=2
+12:17:02	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14782&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14782
+12:17:04	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14787 (from https://alis.vamtam.com/product/aura-dress/)
+12:17:04	Warning: 	Found for https://alis.vamtam.com/product/aura-dress/?share=facebook
+12:17:04	Warning: 	File has moved from https://alis.vamtam.com/product/aura-dress/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faura-dress%2F&t=Aura%20dress
+12:17:04	Warning: 	Found for https://alis.vamtam.com/product/aura-dress/?share=twitter
+12:17:04	Warning: 	File has moved from https://alis.vamtam.com/product/aura-dress/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Aura%20dress&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faura-dress%2F
+12:17:04	Warning: 	Found for https://alis.vamtam.com/product/aura-dress/?share=pinterest
+12:17:04	Warning: 	File has moved from https://alis.vamtam.com/product/aura-dress/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faura-dress%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F08%2Fd-product4.jpg&description=Aura%20dress
+12:17:04	Warning: 	Found for https://alis.vamtam.com/product/aura-dress/?share=tumblr
+12:17:04	Warning: 	File has moved from https://alis.vamtam.com/product/aura-dress/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faura-dress%2F&t=Aura%20dress&s=
+12:17:04	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14787&paged=2
+12:17:04	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14787&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14787
+12:17:09	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14798 (from https://alis.vamtam.com/product/beulah/)
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/beulah/?share=facebook
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/beulah/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbeulah%2F&t=Beulah
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/beulah/?share=twitter
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/beulah/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Beulah&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbeulah%2F
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/beulah/?share=pinterest
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/beulah/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbeulah%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2016%2F12%2Ff-product1.jpg&description=Beulah
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/beulah/?share=tumblr
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/beulah/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbeulah%2F&t=Beulah&s=
+12:17:20	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14798&paged=2
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14798&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14798
+12:17:20	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14799 (from https://alis.vamtam.com/product/norah/)
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/norah/?share=facebook
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/norah/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnorah%2F&t=Norah
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/norah/?share=twitter
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/norah/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Norah&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnorah%2F
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/norah/?share=pinterest
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/norah/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnorah%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2016%2F12%2Ff-product2.jpg&description=Norah
+12:17:20	Warning: 	Found for https://alis.vamtam.com/product/norah/?share=tumblr
+12:17:20	Warning: 	File has moved from https://alis.vamtam.com/product/norah/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnorah%2F&t=Norah&s=
+12:17:21	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14799&paged=2
+12:17:21	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14799&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14799
+12:17:23	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14800 (from https://alis.vamtam.com/product/granderson/)
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/granderson/?share=facebook
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/granderson/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgranderson%2F&t=Granderson
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/granderson/?share=twitter
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/granderson/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Granderson&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgranderson%2F
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/granderson/?share=pinterest
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/granderson/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgranderson%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2016%2F12%2Ff-product3.jpg&description=Granderson
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/granderson/?share=tumblr
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/granderson/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgranderson%2F&t=Granderson&s=
+12:17:23	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14800&paged=2
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14800&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14800
+12:17:23	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=16513 (from https://alis.vamtam.com/product/gery/)
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/gery/?share=facebook
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/gery/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgery%2F&t=Gery
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/gery/?share=twitter
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/gery/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Gery&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgery%2F
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/gery/?share=pinterest
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/gery/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgery%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2016%2F12%2Ff-product4.jpg&description=Gery
+12:17:23	Warning: 	Found for https://alis.vamtam.com/product/gery/?share=tumblr
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/product/gery/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fgery%2F&t=Gery&s=
+12:17:23	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=16513&paged=2
+12:17:23	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=16513&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=16513
+12:17:35	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14783 (from https://alis.vamtam.com/product/raisa-drop-earrings/)
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/raisa-drop-earrings/?share=facebook
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/raisa-drop-earrings/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fraisa-drop-earrings%2F&t=Raisa%20Drop%20Earrings
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/raisa-drop-earrings/?share=twitter
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/raisa-drop-earrings/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Raisa%20Drop%20Earrings&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fraisa-drop-earrings%2F
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/raisa-drop-earrings/?share=pinterest
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/raisa-drop-earrings/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fraisa-drop-earrings%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fj-product1.jpg&description=Raisa%20Drop%20Earrings
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/raisa-drop-earrings/?share=tumblr
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/raisa-drop-earrings/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fraisa-drop-earrings%2F&t=Raisa%20Drop%20Earrings&s=
+12:18:19	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14783&paged=2
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14783&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14783
+12:18:19	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=16514 (from https://alis.vamtam.com/product/ziva-hoop-earrings-2/)
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=facebook
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fziva-hoop-earrings-2%2F&t=Ziva%20Hoop%20Earrings
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=twitter
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Ziva%20Hoop%20Earrings&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fziva-hoop-earrings-2%2F
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=pinterest
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fziva-hoop-earrings-2%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fj-product2.jpg&description=Ziva%20Hoop%20Earrings
+12:18:19	Warning: 	Found for https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=tumblr
+12:18:19	Warning: 	File has moved from https://alis.vamtam.com/product/ziva-hoop-earrings-2/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fziva-hoop-earrings-2%2F&t=Ziva%20Hoop%20Earrings&s=
+12:18:40	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=16514&paged=2
+12:18:40	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=16514&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=16514
+12:18:40	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14793 (from https://alis.vamtam.com/product/hermia-hoop-earrings/)
+12:18:40	Warning: 	Found for https://alis.vamtam.com/product/hermia-hoop-earrings/?share=facebook
+12:18:40	Warning: 	File has moved from https://alis.vamtam.com/product/hermia-hoop-earrings/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fhermia-hoop-earrings%2F&t=Hermia%20Hoop%20Earrings
+12:18:40	Warning: 	Found for https://alis.vamtam.com/product/hermia-hoop-earrings/?share=twitter
+12:18:40	Warning: 	File has moved from https://alis.vamtam.com/product/hermia-hoop-earrings/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Hermia%20Hoop%20Earrings&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fhermia-hoop-earrings%2F
+12:18:40	Warning: 	Found for https://alis.vamtam.com/product/hermia-hoop-earrings/?share=pinterest
+12:18:40	Warning: 	File has moved from https://alis.vamtam.com/product/hermia-hoop-earrings/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fhermia-hoop-earrings%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fj-product3.jpg&description=Hermia%20Hoop%20Earrings
+12:18:40	Warning: 	Found for https://alis.vamtam.com/product/hermia-hoop-earrings/?share=tumblr
+12:18:40	Warning: 	File has moved from https://alis.vamtam.com/product/hermia-hoop-earrings/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fhermia-hoop-earrings%2F&t=Hermia%20Hoop%20Earrings&s=
+12:18:41	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14793&paged=2
+12:18:41	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14793&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14793
+12:18:41	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14792 (from https://alis.vamtam.com/product/saskia-hoop-earrings/)
+12:18:41	Warning: 	Found for https://alis.vamtam.com/product/saskia-hoop-earrings/?share=facebook
+12:18:41	Warning: 	File has moved from https://alis.vamtam.com/product/saskia-hoop-earrings/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fsaskia-hoop-earrings%2F&t=Saskia%20Hoop%20Earrings
+12:18:41	Warning: 	Found for https://alis.vamtam.com/product/saskia-hoop-earrings/?share=twitter
+12:18:41	Warning: 	File has moved from https://alis.vamtam.com/product/saskia-hoop-earrings/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Saskia%20Hoop%20Earrings&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fsaskia-hoop-earrings%2F
+12:18:41	Warning: 	Found for https://alis.vamtam.com/product/saskia-hoop-earrings/?share=pinterest
+12:18:41	Warning: 	File has moved from https://alis.vamtam.com/product/saskia-hoop-earrings/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fsaskia-hoop-earrings%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F07%2Fj-product4.jpg&description=Saskia%20Hoop%20Earrings
+12:18:41	Warning: 	Found for https://alis.vamtam.com/product/saskia-hoop-earrings/?share=tumblr
+12:18:41	Warning: 	File has moved from https://alis.vamtam.com/product/saskia-hoop-earrings/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fsaskia-hoop-earrings%2F&t=Saskia%20Hoop%20Earrings&s=
+12:19:25	Warning: 	Moved Permanently for https://alis.vamtam.com/home-planner/?add-to-cart=14792&paged=2
+12:19:25	Warning: 	File has moved from https://alis.vamtam.com/home-planner/?add-to-cart=14792&paged=2 to https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14792
+12:19:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16936
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/?p=16936 to https://alis.vamtam.com/terms-use/
+12:19:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16939
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/?p=16939 to https://alis.vamtam.com/privacy-policy/
+12:19:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=294
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/?p=294 to https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/
+12:19:34	Warning: 	Found for https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=facebook
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fgrown-man-wears-fanny-pack-to-serve-as-a-flower-girl%2F&t=Grown%20Man%20Wears%20Fanny%20Pack%20to%20Serve%20as%20a%20Flower%20Girl
+12:19:34	Warning: 	Found for https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=twitter
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Grown%20Man%20Wears%20Fanny%20Pack%20to%20Serve%20as%20a%20Flower%20Girl&url=https%3A%2F%2Falis.vamtam.com%2Fgrown-man-wears-fanny-pack-to-serve-as-a-flower-girl%2F
+12:19:34	Warning: 	Found for https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=pinterest
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fgrown-man-wears-fanny-pack-to-serve-as-a-flower-girl%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fpost-7.jpg&description=Grown%20Man%20Wears%20Fanny%20Pack%20to%20Serve%20as%20a%20Flower%20Girl
+12:19:34	Warning: 	Found for https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=tumblr
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/grown-man-wears-fanny-pack-to-serve-as-a-flower-girl/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fgrown-man-wears-fanny-pack-to-serve-as-a-flower-girl%2F&t=Grown%20Man%20Wears%20Fanny%20Pack%20to%20Serve%20as%20a%20Flower%20Girl&s=
+12:19:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=306
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/?p=306 to https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/
+12:19:34	Warning: 	Found for https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=facebook
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2F2-things-i-wish-i-knew-before-having-a-destination-wedding%2F&t=2%20Things%20I%20Wish%20I%20Knew%20Before%20Having%20a%20Destination%20Wedding
+12:19:34	Warning: 	Found for https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=twitter
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=2%20Things%20I%20Wish%20I%20Knew%20Before%20Having%20a%20Destination%20Wedding&url=https%3A%2F%2Falis.vamtam.com%2F2-things-i-wish-i-knew-before-having-a-destination-wedding%2F
+12:19:34	Warning: 	Found for https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=pinterest
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2F2-things-i-wish-i-knew-before-having-a-destination-wedding%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2014%2F03%2Fpost-9.jpg&description=2%20Things%20I%20Wish%20I%20Knew%20Before%20Having%20a%20Destination%20Wedding
+12:19:34	Warning: 	Found for https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=tumblr
+12:19:34	Warning: 	File has moved from https://alis.vamtam.com/2-things-i-wish-i-knew-before-having-a-destination-wedding/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2F2-things-i-wish-i-knew-before-having-a-destination-wedding%2F&t=2%20Things%20I%20Wish%20I%20Knew%20Before%20Having%20a%20Destination%20Wedding&s=
+12:19:35	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=303
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/?p=303 to https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=facebook
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fdont-ask-your-girlfriends-dad-if-you-can-marry-her%2F&t=Don%27t%20Ask%20Your%20Girlfriend%27s%20Dad%20if%20You%20Can%20Marry%20Her
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=twitter
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Don%27t%20Ask%20Your%20Girlfriend%27s%20Dad%20if%20You%20Can%20Marry%20Her&url=https%3A%2F%2Falis.vamtam.com%2Fdont-ask-your-girlfriends-dad-if-you-can-marry-her%2F
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=pinterest
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fdont-ask-your-girlfriends-dad-if-you-can-marry-her%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fpost-2.jpg&description=Don%27t%20Ask%20Your%20Girlfriend%27s%20Dad%20if%20You%20Can%20Marry%20Her
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=tumblr
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-ask-your-girlfriends-dad-if-you-can-marry-her/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fdont-ask-your-girlfriends-dad-if-you-can-marry-her%2F&t=Don%27t%20Ask%20Your%20Girlfriend%27s%20Dad%20if%20You%20Can%20Marry%20Her&s=
+12:19:35	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=5357
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/?p=5357 to https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/
+12:19:35	Warning: 	Found for https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=facebook
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fprepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year%2F&t=Prepare%20to%20Be%20Awestruck%20By%20The%20Most%20Stunning%20Destination%20Weddings%20You%E2%80%99ll%20See%20All%20Year
+12:19:35	Warning: 	Found for https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=twitter
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Prepare%20to%20Be%20Awestruck%20By%20The%20Most%20Stunning%20Destination%20Weddings%20You%E2%80%99ll%20See%20All%20Year&url=https%3A%2F%2Falis.vamtam.com%2Fprepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year%2F
+12:19:35	Warning: 	Found for https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=pinterest
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fprepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2Fpost-3.jpg&description=Prepare%20to%20Be%20Awestruck%20By%20The%20Most%20Stunning%20Destination%20Weddings%20You%E2%80%99ll%20See%20All%20Year
+12:19:35	Warning: 	Found for https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=tumblr
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/prepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fprepare-to-be-awestruck-by-the-most-stunning-destination-weddings-youll-see-all-year%2F&t=Prepare%20to%20Be%20Awestruck%20By%20The%20Most%20Stunning%20Destination%20Weddings%20You%E2%80%99ll%20See%20All%20Year&s=
+12:19:35	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=301
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/?p=301 to https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=facebook
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fdont-make-me-spend-my-holiday-weekend-at-your-wedding%2F&t=Don%27t%20Make%20Me%20Spend%20My%20Holiday%20Weekend%20at%20Your%20Wedding
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=twitter
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Don%27t%20Make%20Me%20Spend%20My%20Holiday%20Weekend%20at%20Your%20Wedding&url=https%3A%2F%2Falis.vamtam.com%2Fdont-make-me-spend-my-holiday-weekend-at-your-wedding%2F
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=pinterest
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fdont-make-me-spend-my-holiday-weekend-at-your-wedding%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2013%2F09%2Fpost-10.jpg&description=Don%27t%20Make%20Me%20Spend%20My%20Holiday%20Weekend%20at%20Your%20Wedding
+12:19:35	Warning: 	Found for https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=tumblr
+12:19:35	Warning: 	File has moved from https://alis.vamtam.com/dont-make-me-spend-my-holiday-weekend-at-your-wedding/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fdont-make-me-spend-my-holiday-weekend-at-your-wedding%2F&t=Don%27t%20Make%20Me%20Spend%20My%20Holiday%20Weekend%20at%20Your%20Wedding&s=
+12:19:36	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=15366 (from https://alis.vamtam.com/product/bridal-dress-botique/)
+12:19:38	Warning: 	Found for https://alis.vamtam.com/product/bridal-dress-botique/?share=facebook
+12:19:38	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-dress-botique/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-dress-botique%2F&t=Bridal%20Dress%20Botique
+12:19:38	Warning: 	Found for https://alis.vamtam.com/product/bridal-dress-botique/?share=twitter
+12:19:38	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-dress-botique/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Bridal%20Dress%20Botique&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-dress-botique%2F
+12:19:38	Warning: 	Found for https://alis.vamtam.com/product/bridal-dress-botique/?share=pinterest
+12:19:38	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-dress-botique/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-dress-botique%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2FVoucher-01.jpg&description=Bridal%20Dress%20Botique
+12:19:38	Warning: 	Found for https://alis.vamtam.com/product/bridal-dress-botique/?share=tumblr
+12:19:38	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-dress-botique/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-dress-botique%2F&t=Bridal%20Dress%20Botique&s=
+12:19:45	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=15367 (from https://alis.vamtam.com/product/bridal-flowers/)
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/bridal-flowers/?share=facebook
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-flowers/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-flowers%2F&t=Bridal%20Flowers
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/bridal-flowers/?share=twitter
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-flowers/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Bridal%20Flowers&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-flowers%2F
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/bridal-flowers/?share=pinterest
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-flowers/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-flowers%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2FVoucher-01.jpg&description=Bridal%20Flowers
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/bridal-flowers/?share=tumblr
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/bridal-flowers/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fbridal-flowers%2F&t=Bridal%20Flowers&s=
+12:19:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=15368 (from https://alis.vamtam.com/product/wedding-cake/)
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-cake/?share=facebook
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-cake/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-cake%2F&t=Wedding%20cake
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-cake/?share=twitter
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-cake/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Wedding%20cake&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-cake%2F
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-cake/?share=pinterest
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-cake/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-cake%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2FVoucher-01.jpg&description=Wedding%20cake
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-cake/?share=tumblr
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-cake/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-cake%2F&t=Wedding%20cake&s=
+12:19:49	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=15369 (from https://alis.vamtam.com/product/wedding-winery/)
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-winery/?share=facebook
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-winery/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-winery%2F&t=Wedding%20Winery
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-winery/?share=twitter
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-winery/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Wedding%20Winery&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-winery%2F
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-winery/?share=pinterest
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-winery/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-winery%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F12%2FVoucher-01.jpg&description=Wedding%20Winery
+12:19:49	Warning: 	Found for https://alis.vamtam.com/product/wedding-winery/?share=tumblr
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/product/wedding-winery/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fwedding-winery%2F&t=Wedding%20Winery&s=
+12:19:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=326
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/?p=326 to https://alis.vamtam.com/portfolio/anna-mark/
+12:19:49	Warning: 	Found for https://alis.vamtam.com/portfolio/anna-mark/?share=facebook
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/portfolio/anna-mark/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fanna-mark%2F&t=Anna%20%26%20Mark
+12:19:49	Warning: 	Found for https://alis.vamtam.com/portfolio/anna-mark/?share=twitter
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/portfolio/anna-mark/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Anna%20%26%20Mark&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fanna-mark%2F
+12:19:49	Warning: 	Found for https://alis.vamtam.com/portfolio/anna-mark/?share=pinterest
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/portfolio/anna-mark/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fanna-mark%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-7-1.jpg&description=Anna%20%26amp%3B%20Mark
+12:19:49	Warning: 	Found for https://alis.vamtam.com/portfolio/anna-mark/?share=tumblr
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/portfolio/anna-mark/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fanna-mark%2F&t=Anna%20%26%20Mark&s=
+12:19:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=325
+12:19:49	Warning: 	File has moved from https://alis.vamtam.com/?p=325 to https://alis.vamtam.com/portfolio/silvia-vergil/
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/silvia-vergil/?share=facebook
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/silvia-vergil/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fsilvia-vergil%2F&t=Silvia%20%26%20Vergil
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/silvia-vergil/?share=twitter
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/silvia-vergil/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Silvia%20%26%20Vergil&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fsilvia-vergil%2F
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/silvia-vergil/?share=pinterest
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/silvia-vergil/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fsilvia-vergil%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-4-1.jpg&description=Silvia%20%26amp%3B%20Vergil
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/silvia-vergil/?share=tumblr
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/silvia-vergil/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fsilvia-vergil%2F&t=Silvia%20%26%20Vergil&s=
+12:19:52	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=319
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/?p=319 to https://alis.vamtam.com/portfolio/charlotte-william/
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/charlotte-william/?share=facebook
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/charlotte-william/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fcharlotte-william%2F&t=Charlotte%20%26%20William
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/charlotte-william/?share=twitter
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/charlotte-william/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Charlotte%20%26%20William&url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fcharlotte-william%2F
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/charlotte-william/?share=pinterest
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/charlotte-william/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fcharlotte-william%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fgallery-1-1.jpg&description=Charlotte%20%26amp%3B%20William
+12:19:52	Warning: 	Found for https://alis.vamtam.com/portfolio/charlotte-william/?share=tumblr
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/portfolio/charlotte-william/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fportfolio%2Fcharlotte-william%2F&t=Charlotte%20%26%20William&s=
+12:19:52	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15164
+12:19:52	Warning: 	File has moved from https://alis.vamtam.com/?p=15164 to https://alis.vamtam.com/gallery-1-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15165
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15165 to https://alis.vamtam.com/gallery-2-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15166
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15166 to https://alis.vamtam.com/gallery-3-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15167
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15167 to https://alis.vamtam.com/gallery-4-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15168
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15168 to https://alis.vamtam.com/gallery-5-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15169
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15169 to https://alis.vamtam.com/gallery-6-3/
+12:19:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15170
+12:19:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15170 to https://alis.vamtam.com/gallery-7-3/
+12:20:03	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/9272 (from https://alis.vamtam.com/classes/wedding-cake-decorating-course/)
+12:20:03	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=9272 (from https://alis.vamtam.com/classes/wedding-cake-decorating-course/)
+12:20:12	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/8708 (from https://alis.vamtam.com/classes/courses-workshops/)
+12:20:12	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=8708 (from https://alis.vamtam.com/classes/courses-workshops/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/8178 (from https://alis.vamtam.com/classes/wedding-dress-design-school/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=8178 (from https://alis.vamtam.com/classes/wedding-dress-design-school/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/8179 (from https://alis.vamtam.com/classes/conclusion/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=8179 (from https://alis.vamtam.com/classes/conclusion/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/9273 (from https://alis.vamtam.com/classes/the-sheffield-school/)
+12:20:15	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=9273 (from https://alis.vamtam.com/classes/the-sheffield-school/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/9293 (from https://alis.vamtam.com/classes/weddings-beautiful-worldwide/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=9293 (from https://alis.vamtam.com/classes/weddings-beautiful-worldwide/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/9292 (from https://alis.vamtam.com/classes/international-luxury-weddings/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=9292 (from https://alis.vamtam.com/classes/international-luxury-weddings/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/9209 (from https://alis.vamtam.com/classes/the-wedding-planning-institute/)
+12:20:18	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=9209 (from https://alis.vamtam.com/classes/the-wedding-planning-institute/)
+12:20:19	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events/8180 (from https://alis.vamtam.com/classes/two-day-wedding-course/)
+12:20:19	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=8180 (from https://alis.vamtam.com/classes/two-day-wedding-course/)
+12:20:19	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13253
+12:20:19	Warning: 	File has moved from https://alis.vamtam.com/?p=13253 to https://alis.vamtam.com/checkout/
+12:20:46	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=299
+12:20:46	Warning: 	File has moved from https://alis.vamtam.com/?p=299 to https://alis.vamtam.com/audio-post/
+12:20:48	Warning: 	Found for https://alis.vamtam.com/audio-post/?share=facebook
+12:20:48	Warning: 	File has moved from https://alis.vamtam.com/audio-post/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Faudio-post%2F&t=What%20kind%20of%20music%20did%20you%20play%20during%20your%20wedding%20reception%3F
+12:20:48	Warning: 	Found for https://alis.vamtam.com/audio-post/?share=twitter
+12:20:48	Warning: 	File has moved from https://alis.vamtam.com/audio-post/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=What%20kind%20of%20music%20did%20you%20play%20during%20your%20wedding%20reception%3F&url=https%3A%2F%2Falis.vamtam.com%2Faudio-post%2F
+12:20:48	Warning: 	Found for https://alis.vamtam.com/audio-post/?share=pinterest
+12:20:48	Warning: 	File has moved from https://alis.vamtam.com/audio-post/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Faudio-post%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F11%2Fcropped-fav_icon-1-100x100.png&description=What%20kind%20of%20music%20did%20you%20play%20during%20your%20wedding%20reception%3F
+12:20:48	Warning: 	Found for https://alis.vamtam.com/audio-post/?share=tumblr
+12:20:48	Warning: 	File has moved from https://alis.vamtam.com/audio-post/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Faudio-post%2F&t=What%20kind%20of%20music%20did%20you%20play%20during%20your%20wedding%20reception%3F&s=
+12:20:48	Warning: 	Moved Permanently for https://alis.vamtam.com/author/admin/page/1/
+12:20:48	Warning: 	File has moved from https://alis.vamtam.com/author/admin/page/1/ to https://alis.vamtam.com/author/admin/
+12:20:49	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/home-planner/page/2/"https://www.youtube.com/embed/A83_TxPAEb4?feature=oembed%22 (from https://alis.vamtam.com/home-planner/page/2/)
+12:20:51	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/product-category/jewelry/feed/ (from https://alis.vamtam.com/product-category/jewelry/)
+12:20:51	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/wp-json/wp/v2/product_cat/679 (from https://alis.vamtam.com/product-category/jewelry/)
+12:20:51	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/product-category/jewelry/?add-to-cart=14792 (from https://alis.vamtam.com/product-category/jewelry/)
+12:20:53	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/product-category/jewelry/?add-to-cart=14793 (from https://alis.vamtam.com/product-category/jewelry/)
+12:20:54	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/product-category/jewelry/?add-to-cart=16514 (from https://alis.vamtam.com/product-category/jewelry/)
+12:20:54	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/product-category/jewelry/?add-to-cart=14783 (from https://alis.vamtam.com/product-category/jewelry/)
+12:21:00	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14783 (from https://alis.vamtam.com/home-planner/?add-to-cart=14783&paged=2)
+12:21:03	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/home-planner/page/2/?add-to-cart=16514 (from https://alis.vamtam.com/home-planner/?add-to-cart=16514&paged=2)
+12:21:05	Warning: 	Retry after error -4 (Connect Error) at link https://alis.vamtam.com/home-planner/page/2/?add-to-cart=14793 (from https://alis.vamtam.com/home-planner/?add-to-cart=14793&paged=2)
+12:21:06	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14802 (from https://alis.vamtam.com/product/mira-skirt/)
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/mira-skirt/?share=facebook
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/mira-skirt/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmira-skirt%2F&t=Mira%20-%20skirt
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/mira-skirt/?share=twitter
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/mira-skirt/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Mira%20-%20skirt&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmira-skirt%2F
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/mira-skirt/?share=pinterest
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/mira-skirt/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmira-skirt%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F03%2Fd-product7.jpg&description=Mira%20-%20skirt
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/mira-skirt/?share=tumblr
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/mira-skirt/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fmira-skirt%2F&t=Mira%20-%20skirt&s=
+12:21:10	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14804 (from https://alis.vamtam.com/product/aurora-dress/)
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/aurora-dress/?share=facebook
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/aurora-dress/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faurora-dress%2F&t=Aurora%20dress
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/aurora-dress/?share=twitter
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/aurora-dress/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Aurora%20dress&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faurora-dress%2F
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/aurora-dress/?share=pinterest
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/aurora-dress/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faurora-dress%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fd-product5.jpg&description=Aurora%20dress
+12:21:10	Warning: 	Found for https://alis.vamtam.com/product/aurora-dress/?share=tumblr
+12:21:10	Warning: 	File has moved from https://alis.vamtam.com/product/aurora-dress/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Faurora-dress%2F&t=Aurora%20dress&s=
+12:21:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15163
+12:21:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15163 to https://alis.vamtam.com/flower-4/
+12:21:16	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15175
+12:21:16	Warning: 	File has moved from https://alis.vamtam.com/?p=15175 to https://alis.vamtam.com/tree-right/
+12:21:22	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/425 (from https://alis.vamtam.com/events/category/beautiful/)
+12:21:22	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/beautiful/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/beautiful/)
+12:21:23	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/424 (from https://alis.vamtam.com/events/category/course/)
+12:21:23	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/course/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/course/)
+12:21:23	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/426 (from https://alis.vamtam.com/events/category/rose/)
+12:21:23	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/rose/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/rose/)
+12:21:24	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/428 (from https://alis.vamtam.com/events/category/wedding/)
+12:21:24	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/wedding/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/wedding/)
+12:21:25	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/420 (from https://alis.vamtam.com/events/category/cake/)
+12:21:25	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/cake/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/cake/)
+12:21:29	Error: 	"Not Found" (404) at link https://alis.vamtam.com/wp-json/wp/v2/tribe_events_cat/427 (from https://alis.vamtam.com/events/category/management/)
+12:21:29	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/management/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/management/)
+12:21:30	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=9703
+12:21:30	Warning: 	File has moved from https://alis.vamtam.com/?p=9703 to https://alis.vamtam.com/my-account/
+12:21:30	Error: 	"Not Found" (404) at link https://alis.vamtam.com/?p=14803 (from https://alis.vamtam.com/product/nolina-lace-top-fall-2018/)
+12:21:30	Warning: 	Found for https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=facebook
+12:21:30	Warning: 	File has moved from https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnolina-lace-top-fall-2018%2F&t=Nolina%20-%20lace%20top%20-%20fall%202018
+12:21:30	Warning: 	Found for https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=twitter
+12:21:30	Warning: 	File has moved from https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=twitter to https://twitter.com/intent/tweet?via=vamtam&text=Nolina%20-%20lace%20top%20-%20fall%202018&url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnolina-lace-top-fall-2018%2F
+12:21:30	Warning: 	Found for https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=pinterest
+12:21:30	Warning: 	File has moved from https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=pinterest to https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnolina-lace-top-fall-2018%2F&media=https%3A%2F%2Falis.vamtam.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fd-product6.jpg&description=Nolina%20-%20lace%20top%20-%20fall%202018
+12:21:30	Warning: 	Found for https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=tumblr
+12:21:30	Warning: 	File has moved from https://alis.vamtam.com/product/nolina-lace-top-fall-2018/?share=tumblr to https://www.tumblr.com/share?v=3&u=https%3A%2F%2Falis.vamtam.com%2Fproduct%2Fnolina-lace-top-fall-2018%2F&t=Nolina%20-%20lace%20top%20-%20fall%202018&s=
+12:21:32	Warning: 	Moved Permanently for https://alis.vamtam.com/shop/page/1/
+12:21:32	Warning: 	File has moved from https://alis.vamtam.com/shop/page/1/ to https://alis.vamtam.com/shop/
+12:21:33	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15162
+12:21:33	Warning: 	File has moved from https://alis.vamtam.com/?p=15162 to https://alis.vamtam.com/face3/
+12:21:39	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15187
+12:21:39	Warning: 	File has moved from https://alis.vamtam.com/?p=15187 to https://alis.vamtam.com/trees-center2/
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/beautiful/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/beautiful/list/)
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/course/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/course/list/)
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/rose/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/rose/list/)
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/wedding/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/wedding/list/)
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/cake/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/cake/list/)
+12:21:44	Error: 	"Forbidden" (403) at link https://alis.vamtam.com/events/category/management/list/"https://alis.vamtam.com/events/">Upcoming (from https://alis.vamtam.com/events/category/management/list/)
+12:21:44	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15160
+12:21:44	Warning: 	File has moved from https://alis.vamtam.com/?p=15160 to https://alis.vamtam.com/face2/
+12:21:51	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15189
+12:21:51	Warning: 	File has moved from https://alis.vamtam.com/?p=15189 to https://alis.vamtam.com/pin-2/
+12:21:59	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15159
+12:21:59	Warning: 	File has moved from https://alis.vamtam.com/?p=15159 to https://alis.vamtam.com/fb-temporary/
+12:22:05	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15190
+12:22:05	Warning: 	File has moved from https://alis.vamtam.com/?p=15190 to https://alis.vamtam.com/pin-3/
+12:22:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15158
+12:22:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15158 to https://alis.vamtam.com/tree-left/
+12:22:18	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15191
+12:22:18	Warning: 	File has moved from https://alis.vamtam.com/?p=15191 to https://alis.vamtam.com/pin_bg/
+12:22:26	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15156
+12:22:26	Warning: 	File has moved from https://alis.vamtam.com/?p=15156 to https://alis.vamtam.com/face1/
+12:22:31	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15192
+12:22:31	Warning: 	File has moved from https://alis.vamtam.com/?p=15192 to https://alis.vamtam.com/flower/
+12:22:36	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15154
+12:22:36	Warning: 	File has moved from https://alis.vamtam.com/?p=15154 to https://alis.vamtam.com/rings/
+12:22:43	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15195
+12:22:43	Warning: 	File has moved from https://alis.vamtam.com/?p=15195 to https://alis.vamtam.com/fav_icon/
+12:22:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15153
+12:22:47	Warning: 	File has moved from https://alis.vamtam.com/?p=15153 to https://alis.vamtam.com/vertical-separator/
+12:22:52	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15196
+12:22:52	Warning: 	File has moved from https://alis.vamtam.com/?p=15196 to https://alis.vamtam.com/cropped-fav_icon-png/
+12:22:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15151
+12:22:57	Warning: 	File has moved from https://alis.vamtam.com/?p=15151 to https://alis.vamtam.com/combined-shape-white-top-01/
+12:23:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15198
+12:23:03	Warning: 	File has moved from https://alis.vamtam.com/?p=15198 to https://alis.vamtam.com/flag/
+12:23:08	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15150
+12:23:08	Warning: 	File has moved from https://alis.vamtam.com/?p=15150 to https://alis.vamtam.com/combined-shape-white-bottom-01/
+12:23:15	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15202
+12:23:15	Warning: 	File has moved from https://alis.vamtam.com/?p=15202 to https://alis.vamtam.com/gift/
+12:23:21	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15149
+12:23:21	Warning: 	File has moved from https://alis.vamtam.com/?p=15149 to https://alis.vamtam.com/element-1/
+12:23:26	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15203
+12:23:26	Warning: 	File has moved from https://alis.vamtam.com/?p=15203 to https://alis.vamtam.com/cartier/
+12:23:33	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15147
+12:23:33	Warning: 	File has moved from https://alis.vamtam.com/?p=15147 to https://alis.vamtam.com/center-flowers-01/
+12:23:39	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15204
+12:23:39	Warning: 	File has moved from https://alis.vamtam.com/?p=15204 to https://alis.vamtam.com/logo-bhldn/
+12:23:45	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15146
+12:23:45	Warning: 	File has moved from https://alis.vamtam.com/?p=15146 to https://alis.vamtam.com/center-flowers/
+12:23:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15205
+12:23:49	Warning: 	File has moved from https://alis.vamtam.com/?p=15205 to https://alis.vamtam.com/pandora/
+12:23:54	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15144
+12:23:54	Warning: 	File has moved from https://alis.vamtam.com/?p=15144 to https://alis.vamtam.com/combined-shape-1-bottom/
+12:23:59	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15206
+12:23:59	Warning: 	File has moved from https://alis.vamtam.com/?p=15206 to https://alis.vamtam.com/tiffany-and-co/
+12:24:07	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15143
+12:24:07	Warning: 	File has moved from https://alis.vamtam.com/?p=15143 to https://alis.vamtam.com/combined-shape-1/
+12:24:14	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15207
+12:24:14	Warning: 	File has moved from https://alis.vamtam.com/?p=15207 to https://alis.vamtam.com/amazon-logo-rgb/
+12:24:21	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15142
+12:24:21	Warning: 	File has moved from https://alis.vamtam.com/?p=15142 to https://alis.vamtam.com/rose-logo/
+12:24:27	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15209
+12:24:27	Warning: 	File has moved from https://alis.vamtam.com/?p=15209 to https://alis.vamtam.com/footer-bg-red/
+12:24:33	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=14637
+12:24:33	Warning: 	File has moved from https://alis.vamtam.com/?p=14637 to https://alis.vamtam.com/ruler/
+12:24:39	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15210
+12:24:39	Warning: 	File has moved from https://alis.vamtam.com/?p=15210 to https://alis.vamtam.com/footer_pic/
+12:24:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13747
+12:24:47	Warning: 	File has moved from https://alis.vamtam.com/?p=13747 to https://alis.vamtam.com/arrow-right-white/
+12:24:54	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15213
+12:24:54	Warning: 	File has moved from https://alis.vamtam.com/?p=15213 to https://alis.vamtam.com/home1-slider-bg/
+12:25:00	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=13746
+12:25:00	Warning: 	File has moved from https://alis.vamtam.com/?p=13746 to https://alis.vamtam.com/arrow-left-white/
+12:25:00	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15216
+12:25:00	Warning: 	File has moved from https://alis.vamtam.com/?p=15216 to https://alis.vamtam.com/combined-shape/
+12:25:09	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15221
+12:25:09	Warning: 	File has moved from https://alis.vamtam.com/?p=15221 to https://alis.vamtam.com/test-bg7/
+12:25:16	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15228
+12:25:16	Warning: 	File has moved from https://alis.vamtam.com/?p=15228 to https://alis.vamtam.com/rose-logo-2/
+12:25:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15230
+12:25:24	Warning: 	File has moved from https://alis.vamtam.com/?p=15230 to https://alis.vamtam.com/pin-1/
+12:25:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15291
+12:25:34	Warning: 	File has moved from https://alis.vamtam.com/?p=15291 to https://alis.vamtam.com/rhododendron-garden-flowers-in-may/
+12:25:41	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15297
+12:25:41	Warning: 	File has moved from https://alis.vamtam.com/?p=15297 to https://alis.vamtam.com/post-1/
+12:25:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15311
+12:25:47	Warning: 	File has moved from https://alis.vamtam.com/?p=15311 to https://alis.vamtam.com/post-2/
+12:25:55	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15315
+12:25:55	Warning: 	File has moved from https://alis.vamtam.com/?p=15315 to https://alis.vamtam.com/post-3/
+12:26:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15318
+12:26:03	Warning: 	File has moved from https://alis.vamtam.com/?p=15318 to https://alis.vamtam.com/post-4/
+12:26:12	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15320
+12:26:12	Warning: 	File has moved from https://alis.vamtam.com/?p=15320 to https://alis.vamtam.com/post-5/
+12:26:19	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15325
+12:26:19	Warning: 	File has moved from https://alis.vamtam.com/?p=15325 to https://alis.vamtam.com/live-love-laugh/
+12:26:26	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15342
+12:26:26	Warning: 	File has moved from https://alis.vamtam.com/?p=15342 to https://alis.vamtam.com/location-bg/
+12:26:32	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15346
+12:26:32	Warning: 	File has moved from https://alis.vamtam.com/?p=15346 to https://alis.vamtam.com/test-13/
+12:26:38	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15349
+12:26:38	Warning: 	File has moved from https://alis.vamtam.com/?p=15349 to https://alis.vamtam.com/test-14/
+12:26:48	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15351
+12:26:48	Warning: 	File has moved from https://alis.vamtam.com/?p=15351 to https://alis.vamtam.com/header-3-2/
+12:26:55	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15356
+12:26:55	Warning: 	File has moved from https://alis.vamtam.com/?p=15356 to https://alis.vamtam.com/header-1-2/
+12:27:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15357
+12:27:03	Warning: 	File has moved from https://alis.vamtam.com/?p=15357 to https://alis.vamtam.com/header-4/
+12:27:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15358
+12:27:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15358 to https://alis.vamtam.com/header-8/
+12:27:17	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15361
+12:27:17	Warning: 	File has moved from https://alis.vamtam.com/?p=15361 to https://alis.vamtam.com/discount-voucher-01/
+12:27:25	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15362
+12:27:25	Warning: 	File has moved from https://alis.vamtam.com/?p=15362 to https://alis.vamtam.com/discount-voucher-02/
+12:27:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15363
+12:27:34	Warning: 	File has moved from https://alis.vamtam.com/?p=15363 to https://alis.vamtam.com/discount-voucher-03/
+12:27:41	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15371
+12:27:41	Warning: 	File has moved from https://alis.vamtam.com/?p=15371 to https://alis.vamtam.com/combined-shape-gifts-bottom-01/
+12:27:49	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15372
+12:27:49	Warning: 	File has moved from https://alis.vamtam.com/?p=15372 to https://alis.vamtam.com/combined-shape-gifts-top-01/
+12:27:59	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15374
+12:27:59	Warning: 	File has moved from https://alis.vamtam.com/?p=15374 to https://alis.vamtam.com/discount-voucher-4/
+12:28:07	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15375
+12:28:07	Warning: 	File has moved from https://alis.vamtam.com/?p=15375 to https://alis.vamtam.com/header-5/
+12:28:15	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15383
+12:28:15	Warning: 	File has moved from https://alis.vamtam.com/?p=15383 to https://alis.vamtam.com/header-shop/
+12:28:25	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15387
+12:28:25	Warning: 	File has moved from https://alis.vamtam.com/?p=15387 to https://alis.vamtam.com/second-pic/
+12:28:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15393
+12:28:34	Warning: 	File has moved from https://alis.vamtam.com/?p=15393 to https://alis.vamtam.com/shop-6-2/
+12:28:44	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15402
+12:28:44	Warning: 	File has moved from https://alis.vamtam.com/?p=15402 to https://alis.vamtam.com/shop-13/
+12:28:53	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15407
+12:28:53	Warning: 	File has moved from https://alis.vamtam.com/?p=15407 to https://alis.vamtam.com/shoppic-1/
+12:29:02	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15409
+12:29:02	Warning: 	File has moved from https://alis.vamtam.com/?p=15409 to https://alis.vamtam.com/shoppic-3/
+12:29:08	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15414
+12:29:08	Warning: 	File has moved from https://alis.vamtam.com/?p=15414 to https://alis.vamtam.com/header-7/
+12:29:14	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15416
+12:29:14	Warning: 	File has moved from https://alis.vamtam.com/?p=15416 to https://alis.vamtam.com/header-2-2/
+12:29:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15417
+12:29:24	Warning: 	File has moved from https://alis.vamtam.com/?p=15417 to https://alis.vamtam.com/header-9/
+12:29:30	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15421
+12:29:30	Warning: 	File has moved from https://alis.vamtam.com/?p=15421 to https://alis.vamtam.com/trees-center3/
+12:29:40	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15429
+12:29:40	Warning: 	File has moved from https://alis.vamtam.com/?p=15429 to https://alis.vamtam.com/party-pic1/
+12:29:46	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15431
+12:29:46	Warning: 	File has moved from https://alis.vamtam.com/?p=15431 to https://alis.vamtam.com/people-1-2/
+12:29:55	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15432
+12:29:55	Warning: 	File has moved from https://alis.vamtam.com/?p=15432 to https://alis.vamtam.com/people-2-3/
+12:30:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15433
+12:30:03	Warning: 	File has moved from https://alis.vamtam.com/?p=15433 to https://alis.vamtam.com/people-3-3/
+12:30:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15434
+12:30:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15434 to https://alis.vamtam.com/people-4-3/
+12:30:20	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15435
+12:30:20	Warning: 	File has moved from https://alis.vamtam.com/?p=15435 to https://alis.vamtam.com/people-5-2/
+12:30:28	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15436
+12:30:28	Warning: 	File has moved from https://alis.vamtam.com/?p=15436 to https://alis.vamtam.com/people-6/
+12:30:40	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15445
+12:30:40	Warning: 	File has moved from https://alis.vamtam.com/?p=15445 to https://alis.vamtam.com/header-10/
+12:30:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15465
+12:30:47	Warning: 	File has moved from https://alis.vamtam.com/?p=15465 to https://alis.vamtam.com/header-11/
+12:30:56	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15469
+12:30:56	Warning: 	File has moved from https://alis.vamtam.com/?p=15469 to https://alis.vamtam.com/header-12/
+12:31:02	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15475
+12:31:02	Warning: 	File has moved from https://alis.vamtam.com/?p=15475 to https://alis.vamtam.com/face4/
+12:31:11	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15486
+12:31:11	Warning: 	File has moved from https://alis.vamtam.com/?p=15486 to https://alis.vamtam.com/planning-3/
+12:31:19	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15487
+12:31:19	Warning: 	File has moved from https://alis.vamtam.com/?p=15487 to https://alis.vamtam.com/planning-4/
+12:31:28	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15488
+12:31:28	Warning: 	File has moved from https://alis.vamtam.com/?p=15488 to https://alis.vamtam.com/planning-1/
+12:31:36	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15489
+12:31:36	Warning: 	File has moved from https://alis.vamtam.com/?p=15489 to https://alis.vamtam.com/planning-2/
+12:31:45	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15494
+12:31:45	Warning: 	File has moved from https://alis.vamtam.com/?p=15494 to https://alis.vamtam.com/planning-5/
+12:31:54	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=15773
+12:31:54	Warning: 	File has moved from https://alis.vamtam.com/?p=15773 to https://alis.vamtam.com/slider-1/
+12:32:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16393
+12:32:03	Warning: 	File has moved from https://alis.vamtam.com/?p=16393 to https://alis.vamtam.com/nothing-makes-me-feel-the-way-you-do/
+12:32:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16394
+12:32:10	Warning: 	File has moved from https://alis.vamtam.com/?p=16394 to https://alis.vamtam.com/nothing-makes-me-feel-the-way-you-do-2/
+12:32:19	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16395
+12:32:19	Warning: 	File has moved from https://alis.vamtam.com/?p=16395 to https://alis.vamtam.com/nothing-makes-me-feel-the-way-you-do-3/
+12:32:25	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16396
+12:32:25	Warning: 	File has moved from https://alis.vamtam.com/?p=16396 to https://alis.vamtam.com/heart-element/
+12:32:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16397
+12:32:34	Warning: 	File has moved from https://alis.vamtam.com/?p=16397 to https://alis.vamtam.com/frame-element-1-bottom/
+12:32:41	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16398
+12:32:41	Warning: 	File has moved from https://alis.vamtam.com/?p=16398 to https://alis.vamtam.com/frame-element-1-top/
+12:32:50	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16399
+12:32:50	Warning: 	File has moved from https://alis.vamtam.com/?p=16399 to https://alis.vamtam.com/frame-element-2/
+12:32:57	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16400
+12:32:57	Warning: 	File has moved from https://alis.vamtam.com/?p=16400 to https://alis.vamtam.com/frame-element-3-1/
+12:33:03	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16401
+12:33:03	Warning: 	File has moved from https://alis.vamtam.com/?p=16401 to https://alis.vamtam.com/ornament-01/
+12:33:12	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16402
+12:33:12	Warning: 	File has moved from https://alis.vamtam.com/?p=16402 to https://alis.vamtam.com/frame-element-3-2/
+12:33:19	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16404
+12:33:19	Warning: 	File has moved from https://alis.vamtam.com/?p=16404 to https://alis.vamtam.com/sld-4/
+12:33:26	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16406
+12:33:26	Warning: 	File has moved from https://alis.vamtam.com/?p=16406 to https://alis.vamtam.com/frame-element-green/
+12:33:34	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16407
+12:33:34	Warning: 	File has moved from https://alis.vamtam.com/?p=16407 to https://alis.vamtam.com/ornament-separator/
+12:33:41	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16408
+12:33:41	Warning: 	File has moved from https://alis.vamtam.com/?p=16408 to https://alis.vamtam.com/flower-element/
+12:33:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16409
+12:33:47	Warning: 	File has moved from https://alis.vamtam.com/?p=16409 to https://alis.vamtam.com/sld-5/
+12:33:55	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16410
+12:33:55	Warning: 	File has moved from https://alis.vamtam.com/?p=16410 to https://alis.vamtam.com/sld-6/
+12:34:01	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16411
+12:34:01	Warning: 	File has moved from https://alis.vamtam.com/?p=16411 to https://alis.vamtam.com/wedding-planer-logo/
+12:34:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16543
+12:34:10	Warning: 	File has moved from https://alis.vamtam.com/?p=16543 to https://alis.vamtam.com/homes/
+12:34:17	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16544
+12:34:17	Warning: 	File has moved from https://alis.vamtam.com/?p=16544 to https://alis.vamtam.com/custom-icons/
+12:34:26	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16545
+12:34:26	Warning: 	File has moved from https://alis.vamtam.com/?p=16545 to https://alis.vamtam.com/homes-2/
+12:34:32	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16546
+12:34:32	Warning: 	File has moved from https://alis.vamtam.com/?p=16546 to https://alis.vamtam.com/homes-title/
+12:34:40	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16547
+12:34:40	Warning: 	File has moved from https://alis.vamtam.com/?p=16547 to https://alis.vamtam.com/stock-photos/
+12:34:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16560
+12:34:47	Warning: 	File has moved from https://alis.vamtam.com/?p=16560 to https://alis.vamtam.com/wedding-planer-logo-alis-white/
+12:34:54	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16561
+12:34:54	Warning: 	File has moved from https://alis.vamtam.com/?p=16561 to https://alis.vamtam.com/wedding-planer-logo-alis/
+12:35:01	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16562
+12:35:01	Warning: 	File has moved from https://alis.vamtam.com/?p=16562 to https://alis.vamtam.com/logo-example-10/
+12:35:10	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16563
+12:35:10	Warning: 	File has moved from https://alis.vamtam.com/?p=16563 to https://alis.vamtam.com/logo-example-12/
+12:35:17	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16564
+12:35:17	Warning: 	File has moved from https://alis.vamtam.com/?p=16564 to https://alis.vamtam.com/logo-example-13/
+12:35:24	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16565
+12:35:24	Warning: 	File has moved from https://alis.vamtam.com/?p=16565 to https://alis.vamtam.com/logo-example-14/
+12:35:30	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16566
+12:35:30	Warning: 	File has moved from https://alis.vamtam.com/?p=16566 to https://alis.vamtam.com/logo-example-15/
+12:35:38	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16590
+12:35:38	Warning: 	File has moved from https://alis.vamtam.com/?p=16590 to https://alis.vamtam.com/ruler-2/
+12:35:47	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16627
+12:35:47	Warning: 	File has moved from https://alis.vamtam.com/?p=16627 to https://alis.vamtam.com/beaver-logo/
+12:35:56	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16628
+12:35:56	Warning: 	File has moved from https://alis.vamtam.com/?p=16628 to https://alis.vamtam.com/vamtam-logo-presentation/
+12:36:04	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16629
+12:36:04	Warning: 	File has moved from https://alis.vamtam.com/?p=16629 to https://alis.vamtam.com/live-front-end-builder/
+12:36:13	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16630
+12:36:13	Warning: 	File has moved from https://alis.vamtam.com/?p=16630 to https://alis.vamtam.com/power_elite_gold/
+12:36:23	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16678
+12:36:23	Warning: 	File has moved from https://alis.vamtam.com/?p=16678 to https://alis.vamtam.com/thumb/
+12:36:30	Warning: 	Moved Permanently for https://alis.vamtam.com/?p=16848
+12:36:30	Warning: 	File has moved from https://alis.vamtam.com/?p=16848 to https://alis.vamtam.com/woocommerce-placeholder/
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 minutes 17 seconds : 2279 links scanned, 1832 files written (123847486 bytes overall) [47692332 bytes received at 21319 bytes/sec], 101747478 bytes transferred using HTTP compression in 1504 files, ratio 15%, 43.9 requests per connection
+(74 errors, 736 warnings, 0 messages)
